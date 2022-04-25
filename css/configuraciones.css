@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+
+    /* Tamaño establecido para utilizar
+    *  las unidades rem
+    *  ----->*/ font-size: 10px;
+
+    /* Tipografía principal del sitio web
+    *  origen: google fonts - roboto -
+    *  ----> */ font-family: 'Roboto', sans-serif;
+}
+
+:root {
+    /* COLORES */
+    --colorTextoClaro: rgba(60, 60, 67, 0.6);
+    --colorBlack:      #000000;
+    --colorBackground: #F2F2F7;
+    --colorBlue:       #007AFF;
+
+    /* Tamaños de texto*/
+    --size17: 17px;
+    --seze15: 15px;
+}
